@@ -7,16 +7,17 @@
             flex-direction: column;
             justify-content: center;  /* Centraliza horizontalmente */
             align-items: center;      /* Centraliza verticalmente */
-            background-color: #4CE5A3;
+            background-color: #121212;
         }
 
 
 .Formação {
+    color: white;
     display: flex;
     flex-direction: column;
     padding: 50px;
        
-       background-color: rgb(179, 179, 223);
+       background-color: #333333;
        border-radius: 5px;
        border: black 1px solid;
     width: 80vw;
@@ -24,12 +25,14 @@
     
 }
 .Formação1, .Formação2{
+    color: white;
     display: flex;
     flex-direction: column;
     padding: 50px;
+    margin-bottom: 5vw;
   
     
-       background-color: rgb(179, 179, 223);
+        background-color: #333333;
        border-radius: 5px;
        border: black 1px solid;
     width: 80vw;
