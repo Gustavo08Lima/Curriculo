@@ -1,0 +1,42 @@
+
+span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(75, 146, 146, 0.267);
+    width: 100vw;
+    margin-bottom: 5%;
+}
+
+a {
+    display: flex ;
+    width: auto;
+    align-items: center;
+    margin: 3%;
+}
+
+
+.title {
+    padding: 2%;
+    background-color: aqua;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.Descrição {
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+     width: 500px;
+    height: 300px; 
+   
+    margin: auto;
+
+}
+p {
+    text-align: center;
+}
