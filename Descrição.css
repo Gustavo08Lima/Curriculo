@@ -1,0 +1,54 @@
+
+
+ body {
+            margin: 0;
+            padding: 0;
+            min-height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;  /* Centraliza horizontalmente */
+            align-items: center;      /* Centraliza verticalmente */
+            background-color: #121212;
+        }
+
+
+a {
+    display: flex ;
+    width: auto;
+    align-items: center;
+    margin: 3%;
+}
+
+
+.Descrição {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    padding: 36px;
+       
+       background-color: #333333;
+       border-radius: 5px;
+       border: black 1px solid;
+    width: 80vw;
+    height: 40vw;
+    margin-bottom: 2%;
+    
+}
+
+.Descrição {
+
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+   
+   
+
+
+}
+p {
+    text-align: center;
+}
+
+.perfil {
+    color: white;
+}
