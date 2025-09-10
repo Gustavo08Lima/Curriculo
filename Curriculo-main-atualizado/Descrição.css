@@ -30,12 +30,7 @@ a {
        border-radius: 5px;
        border: black 1px solid;
     width: 80vw;
-<<<<<<< HEAD
-    height: 40vw;
-    margin-bottom: 2%;
-=======
     height: 90vw;
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     
 }
 
@@ -46,20 +41,9 @@ a {
     justify-content: center; 
    
    
-<<<<<<< HEAD
-
-=======
     margin: auto;
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
 
 }
 p {
     text-align: center;
-<<<<<<< HEAD
-}
-
-.perfil {
-    color: white;
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
 }
