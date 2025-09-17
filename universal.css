@@ -20,30 +20,21 @@ span {
     width: 100vw;
     margin-bottom: 5%;
     border-radius: 0px 0px 30px 30px ;
-<<<<<<< HEAD
   
     
 }
 
 a {
+    font-size: 2vw;
     font-family: 'arial' ;
     font-weight: bold;
     color: rgb(255, 255, 255);
-=======
-}
-
-a {
-    color: white;
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     text-decoration: none;
     display: flex ;
     width: auto;
     align-items: center;
     margin: 3%;
-<<<<<<< HEAD
     transition: 0.3s ease;
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
 }
 
 
@@ -58,11 +49,8 @@ a {
     border: 2px rgb(255, 255, 255) solid;
 }
 .title {
-<<<<<<< HEAD
     color: white;
     font-family: 'arial';
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     width: 100%;
     padding: 2%;
     background-color: #5a5a5a;
@@ -79,9 +67,6 @@ a {
 
 }
 
-<<<<<<< HEAD
 a:hover {
     color: rgb(39, 192, 60);
 }
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc

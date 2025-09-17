@@ -12,10 +12,7 @@
 
 
 .Formação {
-<<<<<<< HEAD
     font-family: 'helvetica';
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     color: white;
     display: flex;
     flex-direction: column;
@@ -26,26 +23,16 @@
        border: black 1px solid;
     width: 80vw;
     height: 20%;
-<<<<<<< HEAD
     transition: transform 0.3s ease;
     
 }
 .Formação1, .Formação2{
     font-family: 'helvetica';
-=======
-    
-}
-.Formação1, .Formação2{
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     color: white;
     display: flex;
     flex-direction: column;
     padding: 50px;
-<<<<<<< HEAD
     margin-bottom: 2vw;
-=======
-    margin-bottom: 5vw;
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
   
     
         background-color: #333333;
@@ -53,10 +40,7 @@
        border: black 1px solid;
     width: 80vw;
     height: 20%;
-<<<<<<< HEAD
     transition: transform 0.3s ease;
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
     
 }
 
@@ -72,7 +56,6 @@
 
 .data {
     color: white;
-<<<<<<< HEAD
     opacity: 60%;
     font-style: italic;
     font-size: 15px;
@@ -81,7 +64,5 @@
 
 .Formação:hover, .Formação1:hover, .Formação2:hover {
     transform: scale(1.06);
-=======
->>>>>>> 6cba6ad95f052ea8c68606181de047c64b4534bc
 
 }
