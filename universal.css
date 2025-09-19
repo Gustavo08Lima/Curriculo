@@ -20,12 +20,13 @@ span {
     width: 100vw;
     margin-bottom: 5%;
     border-radius: 0px 0px 30px 30px ;
+    font-size: 2vw;
   
     
 }
 
 a {
-    font-size: 2vw;
+    font-size: 1.4vw;
     font-family: 'arial' ;
     font-weight: bold;
     color: rgb(255, 255, 255);
@@ -69,4 +70,20 @@ a {
 
 a:hover {
     color: rgb(39, 192, 60);
+}
+
+@media (max-width: 768px) {
+    a {
+    font-size: 3vw;
+    font-family: 'arial' ;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    display: flex ;
+    width: auto;
+    align-items: center;
+    margin: 3%;
+    transition: 0.3s ease;
+}
+
 }
