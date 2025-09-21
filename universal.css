@@ -17,10 +17,12 @@ span {
     align-items: center;
     justify-content: center;
     background-color: #5a5a5ac7;
-    width: 100vw;
+    width: 100%;
     margin-bottom: 5%;
     border-radius: 0px 0px 30px 30px ;
     font-size: 2vw;
+    padding: 0;
+   
   
     
 }
@@ -53,7 +55,7 @@ a {
     color: white;
     font-family: 'arial';
     width: 100%;
-    padding: 2%;
+    
     background-color: #5a5a5a;
     display: flex;
     flex-direction: column;
